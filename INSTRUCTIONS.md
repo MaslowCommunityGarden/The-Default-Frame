@@ -147,7 +147,7 @@ Congratulations! You've built the mechanical part of your machine. Now it's time
 
 Screw the motor mounting brackets to the ends of the beam flush with the front edge using four of the short wood screws.
 
-![](https://github.com/MaslowCNC/Mechanics/tree/master/Documentation/The%20Bolt%20Together%20Frame)
+![](https://github.com/MaslowCommunityGarden/The-Default-Frame/blob/master/Pictures/Motor%20Mount%20Attached.jpg)
 
 Attach the motors using the small screws and lock washers.
 
@@ -184,4 +184,4 @@ Take the chain and loop it over the sprocket leaving the outside end dangling. H
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Bungee%20on%20idlers.jpg)
 
 
-Now that we have completed building the frame we need to use it to cut the sled. Instructions to build a temporary sled and use it to cut the final version can be found [here](https://github.com/MaslowCNC/Mechanics/wiki/Cut-the-Sled).
+Now that we have completed building the frame we need to use it to cut the sled. Instructions to build a temporary sled and use it to cut the final version can be found [here](http://maslowcommunitygarden.org/Maslow-Ring-System.html?instructions=true).
