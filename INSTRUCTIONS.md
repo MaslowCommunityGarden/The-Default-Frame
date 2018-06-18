@@ -155,7 +155,7 @@ Attach the motors using the small screws and lock washers.
 
 ### Step 13: Attach the Arduino and electronics
 
-Attach the Arduino to the back of the plywood using the small screws and standoffs, then reconnect the electronics. If you would like to reference them, the instructions for connecting the electronics are [https://github.com/MaslowCNC/Electronics/wiki/Electronics-Setup](here).
+Attach the Arduino to the back of the plywood using the small screws and standoffs, then reconnect the electronics. If you would like to reference them, the instructions for connecting the electronics are [here](http://maslowcommunitygarden.org/Electronics.html?instructions=True).
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Arduino%20Mounting%20Screws.jpeg)
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Arduino%20In%20Place.jpg)
