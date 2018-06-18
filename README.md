@@ -1,6 +1,6 @@
 # The Default Frame
 
-The default Maslow cnc frame
+The default Maslow CNC frame
 
 This frame was designed as the result of a massive community collaboration. It is designed to replace the old default frame. It is designed to be built anywhere in the world so the dimensions of the lumber are not critical, and no hardware is needed other than screws and glue.
 
