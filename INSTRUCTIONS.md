@@ -147,7 +147,7 @@ Congratulations! You've built the mechanical part of your machine. Now it's time
 
 Screw the motor mounting brackets to the ends of the beam flush with the front edge using four of the short wood screws.
 
-![](https://github.com/MaslowCommunityGarden/The-Default-Frame/blob/master/Pictures/Motor%20Mount%20Attached.jpg)
+![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Motor%20Mount%20Attached.jpg)
 
 Attach the motors using the small screws and lock washers.
 
