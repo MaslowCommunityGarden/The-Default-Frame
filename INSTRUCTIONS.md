@@ -176,7 +176,7 @@ Place a screw in the top beam just to the inside of the motor and on the front o
 
 ### Step 15: Hook up the chain
 
-Take the chain and loop it over the sprocket leaving the outside end dangling. Hook the inside end of the chain on the small nail.  Take the stretchy cord and tie a loop in each end and hook the ends over the screw to the inside of the motor. Place the idler sprocket and S hook in the loop of the chain, then pass the loop end of the stretchy cord around the pulley and hook it to the S hook.
+Take the chain and loop it over the sprocket leaving the outside end dangling. Hook the inside end of the chain on the small nail.  Take the stretchy cord and form a loop in each end using zip ties and hook the end over the screw to the inside of the motor. Place the idler sprocket and S hook in the loop of the chain, then pass the loop end of the stretchy cord around the pulley and hook it to the S hook.
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/System%20Overview.jpg)
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Chain%20Over%20Motor.jpg)
