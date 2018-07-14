@@ -170,7 +170,7 @@ Mark the middle of the top beam and install the two pulleys for the cable system
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Bungee%20idlers.jpg)
 
-Place a screw in the top beam just to the inside of the motor and on the front of the top beam hammer in one of the small nails in the hardware bag leaving a little more than 1/4 inch protruding. The chain will attach to this nail.
+Place a screw in the top beam just to the inside of the motor and on the front of the top beam hammer in one of the small nails in the hardware bag leaving a little more than 1/4 inch protruding. The nail should be placed about 200mm or 8 inches from the end of the board. The chain will attach to this nail.
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Closeup%20of%20Nail%20and%20Screw.jpg)
 
