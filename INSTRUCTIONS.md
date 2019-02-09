@@ -13,6 +13,7 @@ To put together this frame you will need:
 * Two sheets of 3/4 Plywood
 * Two bricks
 * Wood glue
+* Screws
 
 The dimensions of the lumber are not critical, so if 2x4s are not available in your area, the equivalent lumber will work.
 
