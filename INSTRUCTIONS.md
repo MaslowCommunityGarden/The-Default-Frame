@@ -14,6 +14,9 @@ To put together this frame you will need:
 * Two bricks
 * Wood glue
 
+#### Find wood screws in the Maslow kit
+* 2-1/4 screws included in kit.
+
 The dimensions of the lumber are not critical, so if 2x4s are not available in your area, the equivalent lumber will work.
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/2x4s%20Uncut.jpg)
